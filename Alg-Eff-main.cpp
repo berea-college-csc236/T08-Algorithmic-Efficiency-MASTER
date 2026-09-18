@@ -1,4 +1,4 @@
-/* T07: Algorithmic Efficiency Explorer
+/* T08: Algorithmic Efficiency Explorer
 This program is designed to explore big O notion and algorithms
 by Dr. Jan Pearce of Berea College
 Licensed under a Creative Commons Attribution,

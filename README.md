@@ -1,4 +1,4 @@
-# T07: Algorithmic Efficiency Explorer
+# T08: Algorithmic Efficiency Explorer
 ## Code designed to explore growth rates of algorithms as the size of the input increases
 
 ## Original Author: Jan Pearce, Berea College
