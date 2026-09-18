@@ -24,6 +24,7 @@
     <ProjectGuid>{a7f02d08-a510-40f9-a78b-1f101f5e3b07}</ProjectGuid>
     <RootNamespace>T07AlgorithmicEfficiencyMASTER</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>T08-Algorithmic-Efficiency-MASTER</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
